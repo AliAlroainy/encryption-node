@@ -10,7 +10,7 @@ const algorithm = "aes-256-cbc";
 const initVector = crypto.randomBytes(16);
 
 //input 
-const password = prompt("write is your password: ");
+const password = prompt("write your password: ");
 
 // protected data
 
