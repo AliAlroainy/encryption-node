@@ -7,5 +7,5 @@ After you clone the repo run
 
 
 ### screenshot 
-![My animated logo](/read.PNG)
+![My animated logo](/read1.PNG)
 
